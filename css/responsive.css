@@ -56,7 +56,14 @@
                                                                               
                                                                              }
 
-                                                                       
+                                                                             .ads {
+                                                                                display: inline-block;
+                                                                                
+                                                                            }
+
+                                                                            .presentation {
+                                                                                margin: 5px 0;
+                                                                            }
                                                                  }
 
                                                                 
