@@ -32,12 +32,14 @@
                                                        }
                                     }
 
-
 @media screen and (min-width : 769px) and (max-width : 992px)  {
-    #topbar {
-        
-        justify-content: left;
-      
-            }
+                                                                #topbar {
+                                                                         justify-content: left;
+                                                                        }
+                                                                        .container {
+                                                                            max-width: 1080px;
+                                                                            margin: 0 auto;
+                                                                            padding : 30px;
+                                                                        }
 }
 
