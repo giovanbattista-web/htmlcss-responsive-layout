@@ -1,44 +1,36 @@
 /* Soluzione qui */
 @media screen and (max-width : 768px){ 
-    #logo {
-        font-size: 5em;
-    }
+                                      #logo {
+                                             font-size: 5em;
+                                            }
 
-    #topbar {
-        height: 80px;
+                                      #topbar {
+                                               height: 80px;
         
-    }
-    main {
-        padding : 30px;
-    }
+                                              }
+                                      main {
+                                            padding : 30px;
+                                           }
 
-    .recipe-info {
-        padding-top: 450px;
+                                      .recipe-info {
+                                                    padding-top: 450px;
         
-    }
+                                                   }
 
-    .presentation img {
-        max-width: 530px;
-    }
+                                      .presentation img {
+                                                         max-width: 530px;
+                                                        }
 
-    .social-networks{
-        margin-bottom : 50px;
-        
-    }
+                                      .social-networks{
+                                                       margin-bottom : 50px;
+                                                       }
 
-    .social-networks {
-        justify-content: space-around;
-        gap: 2px;
-        margin-bottom: 55px;
-        
-    }
-
-    
-        
-        
-        
-    
-    }
+                                      .social-networks {
+                                                        justify-content: space-around;
+                                                        gap: 2px;
+                                                        margin-bottom: 55px;
+                                                       }
+                                    }
 
 
 @media screen and (min-width : 769px) and (max-width : 992px)  {
@@ -47,14 +39,5 @@
         justify-content: left;
       
             }
-
-    
-
-    
-   
-	
-	
-   
-        
 }
 
