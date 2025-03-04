@@ -36,13 +36,21 @@
                                                                 #topbar {
                                                                          justify-content: left;
                                                                         }
+                                                                        
                                                                         .container {
                                                                             max-width: 1080px;
                                                                             margin: 0 auto;
                                                                             padding : 30px;
                                                                         }
+                                                                       
                                                                         .recipe-origin {
                                                                             display: inline-block;
                                                                         }
-}
 
+                                                                        .recipe-info {
+                                                                            padding-top: 450px;
+                                
+                                                                           }
+
+
+                                                                        
