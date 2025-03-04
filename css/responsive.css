@@ -41,16 +41,24 @@
                                                                             max-width: 1080px;
                                                                             margin: 0 auto;
                                                                             padding : 30px;
-                                                                        }
+                                                                                    }
                                                                        
                                                                         .recipe-origin {
                                                                             display: inline-block;
-                                                                        }
+                                                                                        }
 
                                                                         .recipe-info {
                                                                             padding-top: 450px;
                                 
-                                                                           }
+                                                                                     }
+                                                                        .btn {
+                                                                              padding: 10px 50px;
+                                                                              
+                                                                             }
 
+                                                                       
+                                                                 }
+
+                                                                
 
                                                                         
