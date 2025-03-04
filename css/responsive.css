@@ -41,5 +41,8 @@
                                                                             margin: 0 auto;
                                                                             padding : 30px;
                                                                         }
+                                                                        .recipe-origin {
+                                                                            display: inline-block;
+                                                                        }
 }
 
