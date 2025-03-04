@@ -4,6 +4,10 @@
         font-size: 5em;
     }
 
+    #topbar {
+        height: 80px;
+        
+    }
     main {
         padding : 30px;
     }
