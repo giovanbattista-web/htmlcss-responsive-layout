@@ -6,16 +6,15 @@
 
                                       #topbar {
                                                height: 80px;
-        
                                               }
+
                                       main {
                                             padding : 30px;
                                            }
 
                                       .recipe-info {
                                                     padding-top: 450px;
-        
-                                                   }
+                                                    }
 
                                       .presentation img {
                                                          max-width: 530px;
@@ -57,14 +56,20 @@
                                                                              }
 
                                                                              .ads {
-                                                                                display: inline-block;
+                                                                                    display: inline-block;
                                                                                 
-                                                                            }
+                                                                                }
 
                                                                             .presentation {
-                                                                                margin: 5px 0;
-                                                                            }
-                                                                 }
+                                                                                           margin: 5px 0;
+                                                                                           }
+
+@media screen and (min-width : 993px) {
+                                       
+                                      }
+                                       }
+                                      
+                                                                 
 
                                                                 
 
