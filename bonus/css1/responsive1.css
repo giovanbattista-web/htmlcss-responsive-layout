@@ -9,6 +9,17 @@ body {
     height: 100%;
 }
 
+@media screen and (min-width : 576px) {
+    .presentation img {
+        float: left;
+        margin-right: 20px;
+    }
+
+    .social-networks button {
+        width: 20%;
+    }
+}
+
 /* LATO TABLET */
 @media screen and (min-width : 768px) {
     #topbar {
@@ -37,17 +48,8 @@ body {
         width: calc(100%/3);
     }
 
-    .social-networks button {
-        width: 20%;
-    }
-
     .ads {
         display: block;
-    }
-
-    .presentation img {
-        float: left;
-        margin-right: 20px;
     }
 }
 
