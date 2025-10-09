@@ -15,7 +15,7 @@ Modalità Tablet (sopra i 768px)
 •	l'immagine nella descrizione della ricetta viene circondata dal testo
 
 Modalità Desktop(sopra i 992px)
-•	La grandezza el titolo della ricetta aumenta ancora di più
+•	La grandezza del titolo della ricetta aumenta ancora di più
 •	Le informazioni della ricetta tornano a disporsi una sotto l'altra
 •	Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro
 •	Compaiono i nomi delle piattaforme social
@@ -27,6 +27,7 @@ Modalità Large Mobile (576px)
 •	I bottoni social si allagano già su dispositivi mobile più grandetti (576px)
 
 Info
-Il font utilizzato per il titolo è: 'Nerko One', cursive; il font per il resto della pagina è: Montserrat, 'Helvetica Neue', sans-serif; trovate tutto il contenuto all'interno dello zip. Occhio all'immagine del tiramisù: la dovete adattare alla dimensione corretta del contenitore.
+Il font utilizzato per il titolo è: 'Nerko One', cursive; il font per il resto della pagina è: Montserrat, 'Helvetica Neue', sans-serif; trovate tutto il contenuto all'interno dello zip. 
+Occhio all'immagine del tiramisù: la dovete adattare alla dimensione corretta del contenitore.
 
 Numero minimo di push: uno per ogni task.
